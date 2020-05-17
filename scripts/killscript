@@ -1,0 +1,5 @@
+
+kill `ps | grep wolf_play -m 1 | cut -d ' ' -f 1`
+kill `ps | grep wolf_play -m 1 | cut -d ' ' -f 2`
+pkill afplay
+

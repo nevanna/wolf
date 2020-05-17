@@ -1,0 +1,1 @@
+while :; do afplay -v 0.2 ./sounds/sigils.wav ; done

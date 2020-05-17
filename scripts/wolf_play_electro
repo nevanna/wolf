@@ -1,0 +1,2 @@
+while :; do afplay -v 0.2 ./sounds/electro.wav ; done
+
